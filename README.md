@@ -23,7 +23,7 @@
 - **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun. [[arXiv]](https://arxiv.org/abs/1511.07122) [[Video]](https://youtu.be/1MIoNO1m84E?si=NRDgMh75nNN16CgD)
 - **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al. [[arXiv]](https://arxiv.org/abs/1704.01212) [[Video]](https://youtu.be/yzJZ7XWvMGg?si=JLsizMOYY4GcjiCz)
 - **Attention Is All You Need.** Ashish Vaswani, et al. [[arXiv]](https://arxiv.org/abs/1706.03762) [[Video]](https://youtu.be/vrCiTT0XyL8?si=WZM3mWgXCKcmTOtG)
-- **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al. [[arXiv]](https://arxiv.org/abs/1409.0473)
+- **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al. [[arXiv]](https://arxiv.org/abs/1409.0473) [[Video]](https://youtu.be/0CCxO0CfXCE?si=2gMbk0pn6zb11Ifa)
 - **Identity Mappings in Deep Residual Networks.** Kaiming He, et al. [[arXiv]](https://arxiv.org/abs/1603.05027)
 - **A simple neural network module for relational reasoning.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1706.01427)
 - **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731)

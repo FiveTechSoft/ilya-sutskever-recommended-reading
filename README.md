@@ -19,20 +19,20 @@
 - **ImageNet Classification with Deep Convolutional Neural Networks.** Alex Krizhevsky, et al. [[Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - **Order Matters: Sequence to sequence for sets.** Oriol Vinyals, et al. [[ArXiv]](https://arxiv.org/abs/1511.06391) [[pdf]](https://arxiv.org/pdf/1511.06391)
 - **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al. [[ArXiv]](https://arxiv.org/abs/1811.06965) [[pdf]](https://arxiv.org/pdf/1811.06965)
-- **Deep Residual Learning for Image Recognition.** Kaiming He, et al.
-- **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun.
-- **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al.
-- **Attention Is All You Need.** Ashish Vaswani, et al.
-- **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al.
-- **Identity Mappings in Deep Residual Networks.** Kaiming He, et al.
-- **A simple neural network module for relational reasoning.** Adam Santoro, et al.
-- **Variational Lossy Autoencoder.** Xi Chen, et al.
-- **Relational recurrent neural networks.** Adam Santoro, et al.
-- **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al.
-- **Neural Turing Machines.** Alex Graves, et al.
-- **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin.** Dario Amodei, et al.
-- **Scaling Laws for Neural Language Models.** Jared Kaplan, et al.
-- **A Tutorial Introduction to the Minimum Description Length Principle.** Peter Grunwald.
-- **Machine Super Intelligence.** Shane Legg.
-- **Kolmogorov Complexity and Algorithmic Randomness.** A.Shen, V. A. Uspensky, and N. Vereshchagin.
-- **CS231n: Convolutional Neural Networks for Visual Recognition.**
+- **Deep Residual Learning for Image Recognition.** Kaiming He, et al. [[Presentation]](https://kaiminghe.github.io/cvpr16resnet/cvpr2016_deep_residual_learning_kaiminghe.pdf) [[arXiv]](https://arxiv.org/abs/1512.03385)
+- **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun. [[arXiv]](https://arxiv.org/abs/1511.07122)
+- **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al. [[arXiv]](https://arxiv.org/abs/1704.01212)
+- **Attention Is All You Need.** Ashish Vaswani, et al. [[arXiv]](https://arxiv.org/abs/1706.03762)
+- **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al. [[arXiv]](https://arxiv.org/abs/1409.0473)
+- **Identity Mappings in Deep Residual Networks.** Kaiming He, et al. [[arXiv]](https://arxiv.org/abs/1603.05027)
+- **A simple neural network module for relational reasoning.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1706.01427)
+- **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731)
+- **Relational recurrent neural networks.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1806.01822)
+- **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al. [[arXiv]](https://arxiv.org/abs/1405.6903)
+- **Neural Turing Machines.** Alex Graves, et al. [[arXiv]](https://arxiv.org/abs/1410.5401)
+- **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin.** Dario Amodei, et al. [[arXiv]](https://arxiv.org/abs/1512.02595)
+- **Scaling Laws for Neural Language Models.** Jared Kaplan, et al. [[arXiv]](https://arxiv.org/abs/2001.08361)
+- **A Tutorial Introduction to the Minimum Description Length Principle.** Peter Grunwald. [[pdf]](https://arxiv.org/pdf/math/0406077)
+- **Machine Super Intelligence.** Shane Legg. [[Presentation]](https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf)
+- **Kolmogorov Complexity and Algorithmic Randomness.** A.Shen, V. A. Uspensky, and N. Vereshchagin. [[pdf]](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) Chapter 14.
+- **CS231n: Convolutional Neural Networks for Visual Recognition.** [[CS231n Home]](https://cs231n.stanford.edu/) [[Course Notes]](https://cs231n.github.io/)

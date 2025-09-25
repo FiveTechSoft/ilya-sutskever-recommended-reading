@@ -15,7 +15,7 @@
 - **Understanding LSTM Networks.** Christopher Olah. [[Blog]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) [[Video]](https://youtu.be/-e0fETuRv9M?si=o6onfbhJdJSMLX_l)
 - **Recurrent Neural Network Regularization.** Wojciech Zaremba, et al. [[ArXiv]](https://arxiv.org/abs/1409.2329) [[pdf]](https://arxiv.org/pdf/1409.2329) [[Code]](https://github.com/wojzaremba/lstm) [[Video]](https://youtu.be/GBtom3ANrsM?si=txE906HB3wLXfrXc)
 - **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.** Geoffrey E. Hinton and Drew van Camp. [[Paper]](https://dl.acm.org/doi/10.1145/168304.168306) [[pdf]](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf) [[Video]](https://youtu.be/Zj5-pYG61m8?si=7E2gzmNDgG6o_qpG)
-- **Pointer Networks.** Oriol Vinyals, et al. [[Paper]](https://papers.nips.cc/paper/5866-pointer-networks) [[pdf]](https://arxiv.org/pdf/1506.03134)
+- **Pointer Networks.** Oriol Vinyals, et al. [[Paper]](https://papers.nips.cc/paper/5866-pointer-networks) [[pdf]](https://arxiv.org/pdf/1506.03134) [[Video]](https://youtu.be/kpxXS3c4rWs?si=sAMVrhjlIXVGdQ8S)
 - **ImageNet Classification with Deep Convolutional Neural Networks.** Alex Krizhevsky, et al. [[Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - **Order Matters: Sequence to sequence for sets.** Oriol Vinyals, et al. [[ArXiv]](https://arxiv.org/abs/1511.06391) [[pdf]](https://arxiv.org/pdf/1511.06391)
 - **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al. [[ArXiv]](https://arxiv.org/abs/1811.06965) [[pdf]](https://arxiv.org/pdf/1811.06965)

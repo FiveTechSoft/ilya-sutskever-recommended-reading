@@ -11,7 +11,7 @@
 
 - **The Annotated Transformer.** Sasha Rush, et al. [[Blog]](https://nlp.seas.harvard.edu/annotated-transformer/) [[Code]](https://github.com/harvardnlp/annotated-transformer/) [[Video]](https://youtu.be/_wlrvtYzXYw?si=z1MRZ3LTtKIiFj13)
 - **The First Law of Complexodynamics.** Scott Aaronson. [[Blog]](https://scottaaronson.blog/?p=762) [[Video]](https://youtu.be/o0Ofzcl1FuE?si=tskileA9rlAqnD4y)
-- **The Unreasonable Effectiveness of Recurrent Neural Networks.** Andrej Karpathy. [[Blog]](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [[Code]](https://github.com/karpathy/char-rnn)
+- **The Unreasonable Effectiveness of Recurrent Neural Networks.** Andrej Karpathy. [[Blog]](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [[Code]](https://github.com/karpathy/char-rnn) [[Video]](https://youtu.be/lXdNe2Poua0?si=ZfwgotmSxhSyBgb9)
 - **Understanding LSTM Networks.** Christopher Olah. [[Blog]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - **Recurrent Neural Network Regularization.** Wojciech Zaremba, et al. [[ArXiv]](https://arxiv.org/abs/1409.2329) [[pdf]](https://arxiv.org/pdf/1409.2329) [[Code]](https://github.com/wojzaremba/lstm)
 - **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.** Geoffrey E. Hinton and Drew van Camp. [[Paper]](https://dl.acm.org/doi/10.1145/168304.168306) [[pdf]](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf)

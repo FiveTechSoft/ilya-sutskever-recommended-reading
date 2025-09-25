@@ -13,7 +13,7 @@
 - **The First Law of Complexodynamics.** Scott Aaronson. [[Blog]](https://scottaaronson.blog/?p=762) [[Video]](https://youtu.be/o0Ofzcl1FuE?si=tskileA9rlAqnD4y)
 - **The Unreasonable Effectiveness of Recurrent Neural Networks.** Andrej Karpathy. [[Blog]](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [[Code]] (https://github.com/karpathy/char-rnn) [[Video]](https://youtu.be/lXdNe2Poua0?si=ZfwgotmSxhSyBgb9)
 - **Understanding LSTM Networks.** Christopher Olah. [[Blog]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) [[Video]](https://youtu.be/-e0fETuRv9M?si=o6onfbhJdJSMLX_l)
-- **Recurrent Neural Network Regularization.** Wojciech Zaremba, et al. [[ArXiv]](https://arxiv.org/abs/1409.2329) [[pdf]](https://arxiv.org/pdf/1409.2329) [[Code]](https://github.com/wojzaremba/lstm)
+- **Recurrent Neural Network Regularization.** Wojciech Zaremba, et al. [[ArXiv]](https://arxiv.org/abs/1409.2329) [[pdf]](https://arxiv.org/pdf/1409.2329) [[Code]](https://github.com/wojzaremba/lstm) [[Video]](https://youtu.be/GBtom3ANrsM?si=txE906HB3wLXfrXc)
 - **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights.** Geoffrey E. Hinton and Drew van Camp. [[Paper]](https://dl.acm.org/doi/10.1145/168304.168306) [[pdf]](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf)
 - **Pointer Networks.** Oriol Vinyals, et al. [[Paper]](https://papers.nips.cc/paper/5866-pointer-networks) [[pdf]](https://arxiv.org/pdf/1506.03134)
 - **ImageNet Classification with Deep Convolutional Neural Networks.** Alex Krizhevsky, et al. [[Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)

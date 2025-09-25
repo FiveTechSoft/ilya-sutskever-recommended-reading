@@ -20,7 +20,7 @@
 - **Order Matters: Sequence to sequence for sets.** Oriol Vinyals, et al. [[ArXiv]](https://arxiv.org/abs/1511.06391) [[pdf]](https://arxiv.org/pdf/1511.06391) [[Video]](https://youtu.be/WV2ifkC5Etw?si=ijxbjkb-gh7BlLmH)
 - **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al. [[ArXiv]](https://arxiv.org/abs/1811.06965) [[pdf]](https://arxiv.org/pdf/1811.06965) [[Video]](https://youtu.be/xtXV7qk2vOo?si=xIdBpiXmjMm518f8)
 - **Deep Residual Learning for Image Recognition.** Kaiming He, et al. [[Presentation]](https://kaiminghe.github.io/cvpr16resnet/cvpr2016_deep_residual_learning_kaiminghe.pdf) [[arXiv]](https://arxiv.org/abs/1512.03385) [[Video]](https://youtu.be/OJvJnHzyv_o?si=jRAGCma-79RYmS6H)
-- **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun. [[arXiv]](https://arxiv.org/abs/1511.07122)
+- **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun. [[arXiv]](https://arxiv.org/abs/1511.07122) [[Video]](https://youtu.be/1MIoNO1m84E?si=NRDgMh75nNN16CgD)
 - **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al. [[arXiv]](https://arxiv.org/abs/1704.01212)
 - **Attention Is All You Need.** Ashish Vaswani, et al. [[arXiv]](https://arxiv.org/abs/1706.03762)
 - **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al. [[arXiv]](https://arxiv.org/abs/1409.0473)

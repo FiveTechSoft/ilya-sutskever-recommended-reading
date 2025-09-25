@@ -18,7 +18,7 @@
 - **Pointer Networks.** Oriol Vinyals, et al. [[Paper]](https://papers.nips.cc/paper/5866-pointer-networks) [[pdf]](https://arxiv.org/pdf/1506.03134) [[Video]](https://youtu.be/kpxXS3c4rWs?si=sAMVrhjlIXVGdQ8S)
 - **ImageNet Classification with Deep Convolutional Neural Networks.** Alex Krizhevsky, et al. [[Paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks) [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [[Video]](https://youtu.be/l-m5_GrBZLI?si=tZ41ZL_fjTks_B5S)
 - **Order Matters: Sequence to sequence for sets.** Oriol Vinyals, et al. [[ArXiv]](https://arxiv.org/abs/1511.06391) [[pdf]](https://arxiv.org/pdf/1511.06391) [[Video]](https://youtu.be/WV2ifkC5Etw?si=ijxbjkb-gh7BlLmH)
-- **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al. [[ArXiv]](https://arxiv.org/abs/1811.06965) [[pdf]](https://arxiv.org/pdf/1811.06965)
+- **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism.** Yanping Huang, et al. [[ArXiv]](https://arxiv.org/abs/1811.06965) [[pdf]](https://arxiv.org/pdf/1811.06965) [[Video]](https://youtu.be/xtXV7qk2vOo?si=xIdBpiXmjMm518f8)
 - **Deep Residual Learning for Image Recognition.** Kaiming He, et al. [[Presentation]](https://kaiminghe.github.io/cvpr16resnet/cvpr2016_deep_residual_learning_kaiminghe.pdf) [[arXiv]](https://arxiv.org/abs/1512.03385)
 - **Multi-Scale Context Aggregation by Dilated Convolutions.** Fisher Yu and Vladlen Koltun. [[arXiv]](https://arxiv.org/abs/1511.07122)
 - **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al. [[arXiv]](https://arxiv.org/abs/1704.01212)

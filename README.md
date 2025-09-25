@@ -1,7 +1,7 @@
 # Deep learning reading list from Ilya Sutskever
 > Refined Guide to Deep Learning Secrets
 
-> til, Ilya sutskever gave john carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’
+> Ilya sutskever gave john carmack this reading list of approx 30 research papers and said, ‘If you really learn all of these, you’ll know 90% of what matters today.’
 <br>
 
 [[Twitter Post]](https://twitter.com/keshavchan/status/1787861946173186062) [[Arc.net Link]](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)

@@ -9,7 +9,7 @@
 
 ## 
 
-- **The Annotated Transformer.** Sasha Rush, et al. [[Blog]](https://nlp.seas.harvard.edu/annotated-transformer/) [[Code]](https://github.com/harvardnlp/annotated-transformer/)
+- **The Annotated Transformer.** Sasha Rush, et al. [[Blog]](https://nlp.seas.harvard.edu/annotated-transformer/) [[Code]](https://github.com/harvardnlp/annotated-transformer/) [[Video]](https://youtu.be/_wlrvtYzXYw?si=z1MRZ3LTtKIiFj13)
 - **The First Law of Complexodynamics.** Scott Aaronson. [[Blog]](https://scottaaronson.blog/?p=762)
 - **The Unreasonable Effectiveness of Recurrent Neural Networks.** Andrej Karpathy. [[Blog]](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [[Code]](https://github.com/karpathy/char-rnn)
 - **Understanding LSTM Networks.** Christopher Olah. [[Blog]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)

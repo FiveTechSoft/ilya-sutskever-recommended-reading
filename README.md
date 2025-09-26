@@ -28,7 +28,7 @@
 - **A simple neural network module for relational reasoning.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1706.01427) [[Video]](https://youtu.be/MNtEc0s1HZA?si=SfWkE1BFovNhVeTd)
 - **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731) [[Video]](https://youtu.be/X5BAItUAipA?si=nEbTMXATxav2E0dF)
 - **Relational recurrent neural networks.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1806.01822) [[Video]](https://youtu.be/WaEN097sHag?si=HlgVD3udGujCwmD_)
-- **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al. [[arXiv]](https://arxiv.org/abs/1405.6903)
+- **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al. [[arXiv]](https://arxiv.org/abs/1405.6903) [[Video]](https://youtu.be/z6gXdk4rH6Q?si=-pSqx7Unl513dK2a)
 - **Neural Turing Machines.** Alex Graves, et al. [[arXiv]](https://arxiv.org/abs/1410.5401)
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin.** Dario Amodei, et al. [[arXiv]](https://arxiv.org/abs/1512.02595)
 - **Scaling Laws for Neural Language Models.** Jared Kaplan, et al. [[arXiv]](https://arxiv.org/abs/2001.08361)

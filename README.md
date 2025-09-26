@@ -33,6 +33,6 @@
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin.** Dario Amodei, et al. [[arXiv]](https://arxiv.org/abs/1512.02595) [[Video]](https://youtu.be/Ulbh_CqDHP4?si=j1y-esSEikIsTv_p)
 - **Scaling Laws for Neural Language Models.** Jared Kaplan, et al. [[arXiv]](https://arxiv.org/abs/2001.08361) [[Video]](https://youtu.be/DKVSAwLCd8w?si=NvdX_ThIC0zjxK1m)
 - **A Tutorial Introduction to the Minimum Description Length Principle.** Peter Grunwald. [[pdf]](https://arxiv.org/pdf/math/0406077) [[Video]](https://youtu.be/08UF9vMwesQ?si=4aPAhwewYNooA4-b)
-- **Machine Super Intelligence.** Shane Legg. [[Presentation]](https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf)
+- **Machine Super Intelligence.** Shane Legg. [[Presentation]](https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf) [[Video]](https://youtu.be/4P1UdO68OYo?si=ehtSakVIGVPhiHnG)
 - **Kolmogorov Complexity and Algorithmic Randomness.** A.Shen, V. A. Uspensky, and N. Vereshchagin. [[pdf]](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) Chapter 14.
 - **CS231n: Convolutional Neural Networks for Visual Recognition.** [[CS231n Home]](https://cs231n.stanford.edu/) [[Course Notes]](https://cs231n.github.io/)

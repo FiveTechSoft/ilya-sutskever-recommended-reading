@@ -31,7 +31,7 @@
 - **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al. [[arXiv]](https://arxiv.org/abs/1405.6903) [[Video]](https://youtu.be/z6gXdk4rH6Q?si=-pSqx7Unl513dK2a)
 - **Neural Turing Machines.** Alex Graves, et al. [[arXiv]](https://arxiv.org/abs/1410.5401) [[Video]](https://youtu.be/l_PDvr0k9pA?si=WjoHxQi_tM0vsYFR)
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin.** Dario Amodei, et al. [[arXiv]](https://arxiv.org/abs/1512.02595) [[Video]](https://youtu.be/Ulbh_CqDHP4?si=j1y-esSEikIsTv_p)
-- **Scaling Laws for Neural Language Models.** Jared Kaplan, et al. [[arXiv]](https://arxiv.org/abs/2001.08361)
+- **Scaling Laws for Neural Language Models.** Jared Kaplan, et al. [[arXiv]](https://arxiv.org/abs/2001.08361) [[Video]](https://youtu.be/DKVSAwLCd8w?si=NvdX_ThIC0zjxK1m)
 - **A Tutorial Introduction to the Minimum Description Length Principle.** Peter Grunwald. [[pdf]](https://arxiv.org/pdf/math/0406077)
 - **Machine Super Intelligence.** Shane Legg. [[Presentation]](https://pdfs.semanticscholar.org/e758/b579456545f8691bbadaf26bcd3b536c7172.pdf)
 - **Kolmogorov Complexity and Algorithmic Randomness.** A.Shen, V. A. Uspensky, and N. Vereshchagin. [[pdf]](https://www.lirmm.fr/~ashen/kolmbook-eng-scan.pdf) Chapter 14.

@@ -29,7 +29,7 @@
 - **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731) [[Video]](https://youtu.be/X5BAItUAipA?si=nEbTMXATxav2E0dF)
 - **Relational recurrent neural networks.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1806.01822) [[Video]](https://youtu.be/WaEN097sHag?si=HlgVD3udGujCwmD_)
 - **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al. [[arXiv]](https://arxiv.org/abs/1405.6903) [[Video]](https://youtu.be/z6gXdk4rH6Q?si=-pSqx7Unl513dK2a)
-- **Neural Turing Machines.** Alex Graves, et al. [[arXiv]](https://arxiv.org/abs/1410.5401)
+- **Neural Turing Machines.** Alex Graves, et al. [[arXiv]](https://arxiv.org/abs/1410.5401) [[Video]](https://youtu.be/l_PDvr0k9pA?si=WjoHxQi_tM0vsYFR)
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin.** Dario Amodei, et al. [[arXiv]](https://arxiv.org/abs/1512.02595)
 - **Scaling Laws for Neural Language Models.** Jared Kaplan, et al. [[arXiv]](https://arxiv.org/abs/2001.08361)
 - **A Tutorial Introduction to the Minimum Description Length Principle.** Peter Grunwald. [[pdf]](https://arxiv.org/pdf/math/0406077)

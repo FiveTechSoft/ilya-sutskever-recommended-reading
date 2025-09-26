@@ -26,7 +26,7 @@
 - **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al. [[arXiv]](https://arxiv.org/abs/1409.0473) [[Video]](https://youtu.be/0CCxO0CfXCE?si=2gMbk0pn6zb11Ifa)
 - **Identity Mappings in Deep Residual Networks.** Kaiming He, et al. [[arXiv]](https://arxiv.org/abs/1603.05027) [[Video]](https://youtu.be/9s1drE0BzCw?si=0hPiuMIkTgt21Fui)
 - **A simple neural network module for relational reasoning.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1706.01427) [[Video]](https://youtu.be/MNtEc0s1HZA?si=SfWkE1BFovNhVeTd)
-- **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731)
+- **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731) [[Video]](https://youtu.be/X5BAItUAipA?si=nEbTMXATxav2E0dF)
 - **Relational recurrent neural networks.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1806.01822)
 - **Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton.** Scott Aaronson, et al. [[arXiv]](https://arxiv.org/abs/1405.6903)
 - **Neural Turing Machines.** Alex Graves, et al. [[arXiv]](https://arxiv.org/abs/1410.5401)

@@ -24,7 +24,7 @@
 - **Neural Message Passing for Quantum Chemistry.** Justin Gilmer, et al. [[arXiv]](https://arxiv.org/abs/1704.01212) [[Video]](https://youtu.be/yzJZ7XWvMGg?si=JLsizMOYY4GcjiCz)
 - **Attention Is All You Need.** Ashish Vaswani, et al. [[arXiv]](https://arxiv.org/abs/1706.03762) [[Video]](https://youtu.be/vrCiTT0XyL8?si=WZM3mWgXCKcmTOtG)
 - **Neural Machine Translation by Jointly Learning to Align and Translate.** Dzmitry Bahdanau, et al. [[arXiv]](https://arxiv.org/abs/1409.0473) [[Video]](https://youtu.be/0CCxO0CfXCE?si=2gMbk0pn6zb11Ifa)
-- **Identity Mappings in Deep Residual Networks.** Kaiming He, et al. [[arXiv]](https://arxiv.org/abs/1603.05027)
+- **Identity Mappings in Deep Residual Networks.** Kaiming He, et al. [[arXiv]](https://arxiv.org/abs/1603.05027) [[Video]](https://youtu.be/9s1drE0BzCw?si=0hPiuMIkTgt21Fui)
 - **A simple neural network module for relational reasoning.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1706.01427)
 - **Variational Lossy Autoencoder.** Xi Chen, et al. [[arXiv]](https://arxiv.org/abs/1611.02731)
 - **Relational recurrent neural networks.** Adam Santoro, et al. [[arXiv]](https://arxiv.org/abs/1806.01822)
